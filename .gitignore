@@ -9,7 +9,6 @@ lib/System/*
 /target
 temp/
 .vscode
-lib/
 build/assets
 
 # Simplicity related ignores
